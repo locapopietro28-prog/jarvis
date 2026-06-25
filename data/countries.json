@@ -1,0 +1,82 @@
+{
+  "italia": {
+    "capitale": "Roma",
+    "continente": "Europa",
+    "popolazione": "59.1 milioni",
+    "coordinate": [41.8719, 12.5674],
+    "lingua": "Italiano",
+    "area": "301,340 km²"
+  },
+  "germania": {
+    "capitale": "Berlino",
+    "continente": "Europa",
+    "popolazione": "83.4 milioni",
+    "coordinate": [51.1657, 10.4515],
+    "lingua": "Tedesco",
+    "area": "357,022 km²"
+  },
+  "francia": {
+    "capitale": "Parigi",
+    "continente": "Europa",
+    "popolazione": "67.7 milioni",
+    "coordinate": [46.2276, 2.2137],
+    "lingua": "Francese",
+    "area": "643,801 km²"
+  },
+  "spagna": {
+    "capitale": "Madrid",
+    "continente": "Europa",
+    "popolazione": "47.4 milioni",
+    "coordinate": [40.4637, -3.7492],
+    "lingua": "Spagnolo",
+    "area": "505,990 km²"
+  },
+  "inghilterra": {
+    "capitale": "Londra",
+    "continente": "Europa",
+    "popolazione": "56.5 milioni",
+    "coordinate": [55.3781, -3.4360],
+    "lingua": "Inglese",
+    "area": "242,495 km²"
+  },
+  "giappone": {
+    "capitale": "Tokio",
+    "continente": "Asia",
+    "popolazione": "125.1 milioni",
+    "coordinate": [36.2048, 138.2529],
+    "lingua": "Giapponese",
+    "area": "377,975 km²"
+  },
+  "cina": {
+    "capitale": "Pechino",
+    "continente": "Asia",
+    "popolazione": "1.412 miliardi",
+    "coordinate": [35.8617, 104.1954],
+    "lingua": "Cinese",
+    "area": "9,596,961 km²"
+  },
+  "india": {
+    "capitale": "Nuova Delhi",
+    "continente": "Asia",
+    "popolazione": "1.417 miliardi",
+    "coordinate": [20.5937, 78.9629],
+    "lingua": "Hindi",
+    "area": "3,287,263 km²"
+  },
+  "brasile": {
+    "capitale": "Brasília",
+    "continente": "America del Sud",
+    "popolazione": "215.3 milioni",
+    "coordinate": [-14.2350, -51.9253],
+    "lingua": "Portoghese",
+    "area": "8,514,877 km²"
+  },
+  "usa": {
+    "capitale": "Washington D.C.",
+    "continente": "America del Nord",
+    "popolazione": "338.3 milioni",
+    "coordinate": [37.0902, -95.7129],
+    "lingua": "Inglese",
+    "area": "9,833,520 km²"
+  }
+}
